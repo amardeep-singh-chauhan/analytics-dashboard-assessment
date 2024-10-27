@@ -1,0 +1,22 @@
+.App{
+  background-color: #EFF4FB;
+}
+.dash-title{
+  color: #2B3674;
+  font-size: 1.6rem !important;
+  font-weight: 600 !important;
+}
+
+.side-icon-text{
+  color: #2B3674;
+}
+
+.active-side-icon{
+  border-right: 5px solid blue;
+  border-radius: 4px;
+}
+
+.routing-comp{
+  margin-left: 240;
+  padding: 20;
+}
